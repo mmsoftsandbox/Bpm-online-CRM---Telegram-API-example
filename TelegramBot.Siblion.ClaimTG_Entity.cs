@@ -1,6 +1,5 @@
 ﻿namespace Terrasoft.Core.Process
 {
-
 	using Newtonsoft.Json;
 	using Newtonsoft.Json.Linq;
 	using System;
